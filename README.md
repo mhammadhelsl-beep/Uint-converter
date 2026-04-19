@@ -1,4 +1,4 @@
-[architecture.md](https://github.com/user-attachments/files/26877589/architecture.md)
+
 # Project Architecture Diagram
 
 ```mermaid
